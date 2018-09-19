@@ -1,5 +1,9 @@
-DT173G - Moment 2
+DT173G - Moment 3 (Del 1)
 =================
+
+Uppdaterad med SASS-hantering.\
+(gulp-sass)
+-----------------
 
 NodeJS & Gulp
 -----------------
