@@ -31,7 +31,7 @@ gulp.task('sass', function() {
     var task = gulp.src('src/sass/*.scss')
         .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest('src/css'))
-        .pipe(gulp.dest('src/pub'));
+        .pipe(gulp.dest('pub/css'));
 
     return task;
 });
